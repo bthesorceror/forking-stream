@@ -1,0 +1,16 @@
+{
+  "name": "forking-stream",
+  "version": "1.0.0",
+  "description": "fork single stream into many",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*_test.js"
+  },
+  "keywords": [],
+  "author": "Brandon Farmer <bthesorceror@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.5.1",
+    "through2": "^2.0.1"
+  }
+}
